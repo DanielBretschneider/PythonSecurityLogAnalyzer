@@ -36,7 +36,7 @@ This project demonstrates skills in:
 
 ---
 
-## journalctl Cheatsheet
+## 📝 journalctl Cheatsheet
 
 ### Basic Usage
 
