@@ -3,6 +3,8 @@ A Python‑based security analysis tool that parses, filters, and evaluates syst
 
 Still in progress!
 
+![image](img/Screenshot_20260706_162341.png)
+
 ---
 
 ## 📌 Overview
