@@ -8,15 +8,6 @@ Still in progress!
 ## 📌 Overview
 
 The **Security Log Analyzer for systemd** helps security analysts, system administrators, and researchers identify unusual or malicious behavior by analyzing logs collected through `journald`.  
-It focuses on authentication events, service failures, privilege escalations, and network-related anomalies.
-
-This project demonstrates skills in:
-
-- Python scripting  
-- Log analysis  
-- Linux security  
-- Threat detection  
-- Automation  
 
 ---
 
